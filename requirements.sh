@@ -2,11 +2,11 @@
 
 git clone https://github.com/htr-tech/zphisher
 
-apt install python3
+sudo apt install python3
 
 echo SUCCESSFULLY INSTALLED PYTHON 3
 
-apt install python3-pip
+sudo apt install python3-pip
 
 echo SUCCESSFULLY INSTALLED PIP
 
@@ -28,7 +28,7 @@ cd ..
 
 cd zphisher
 
-bash zphisher.sh
+sudo bash zphisher.sh
 
 echo Done!!
 
