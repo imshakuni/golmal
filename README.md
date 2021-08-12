@@ -30,7 +30,7 @@ This script is made to take an advanced step of phishing attack. Zphisher is a t
 ### Installation process
 
 ```bash
-git clone https://github.com/imshakuni/golmal
+git clone https://github.com/surya-cn/golmal
 ```
  
 ## Usage
